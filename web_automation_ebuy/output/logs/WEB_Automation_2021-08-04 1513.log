@@ -1,0 +1,141 @@
+2021-08-04 15:13:41,048 - [basepage.py -->line:37] - INFO : 等待 登录页面_右上方登录按钮 元素 ('xpath', "//a[text()='登录']") 可见成功, 耗时: 0:00:00.016956
+2021-08-04 15:13:41,053 - [basepage.py -->line:74] - INFO : 查找 登录页面_右上方登录按钮 元素 ('xpath', "//a[text()='登录']") 成功！
+2021-08-04 15:13:42,142 - [basepage.py -->line:109] - INFO : 点击 登录页面_右上方登录按钮 元素 ('xpath', "//a[text()='登录']") 成功！
+2021-08-04 15:13:42,161 - [basepage.py -->line:37] - INFO : 等待 登录页面_用户名密码输入框 元素 ('xpath', "//input[@id='loginName']") 可见成功, 耗时: 0:00:00.018948
+2021-08-04 15:13:42,165 - [basepage.py -->line:74] - INFO : 查找 登录页面_用户名密码输入框 元素 ('xpath', "//input[@id='loginName']") 成功！
+2021-08-04 15:13:43,229 - [basepage.py -->line:153] - INFO : 在 登录页面_用户名密码输入框 元素 ('xpath', "//input[@id='loginName']") 上输入文本值：admin 成功！
+2021-08-04 15:13:43,245 - [basepage.py -->line:37] - INFO : 等待 登录页面_登录按钮 元素 ('xpath', "//input[@type='button']") 可见成功, 耗时: 0:00:00.015955
+2021-08-04 15:13:43,249 - [basepage.py -->line:74] - INFO : 查找 登录页面_登录按钮 元素 ('xpath', "//input[@type='button']") 成功！
+2021-08-04 15:13:44,285 - [basepage.py -->line:109] - INFO : 点击 登录页面_登录按钮 元素 ('xpath', "//input[@type='button']") 成功！
+2021-08-04 15:13:45,299 - [basepage.py -->line:52] - INFO : 等待 首页-用户名 元素 ('xpath', "//a[@href='/ebuy/admin/user?action=index']") 存在成功, 耗时: 0:00:00.008976
+2021-08-04 15:13:45,304 - [basepage.py -->line:74] - INFO : 查找 首页-用户名 元素 ('xpath', "//a[@href='/ebuy/admin/user?action=index']") 成功！
+2021-08-04 15:13:46,316 - [basepage.py -->line:287] - INFO : 获取 首页-用户名 元素 ('xpath', "//a[@href='/ebuy/admin/user?action=index']") 的文本值为:系统管理员
+2021-08-04 15:13:46,331 - [basepage.py -->line:37] - INFO : 等待 首页-退出登录按钮 元素 ('xpath', "//a[text()='注销']") 可见成功, 耗时: 0:00:00.015958
+2021-08-04 15:13:46,336 - [basepage.py -->line:74] - INFO : 查找 首页-退出登录按钮 元素 ('xpath', "//a[text()='注销']") 成功！
+2021-08-04 15:13:47,425 - [basepage.py -->line:109] - INFO : 点击 首页-退出登录按钮 元素 ('xpath', "//a[text()='注销']") 成功！
+2021-08-04 15:13:49,458 - [basepage.py -->line:37] - INFO : 等待 登录页面_右上方登录按钮 元素 ('xpath', "//a[text()='登录']") 可见成功, 耗时: 0:00:00.017984
+2021-08-04 15:13:49,462 - [basepage.py -->line:74] - INFO : 查找 登录页面_右上方登录按钮 元素 ('xpath', "//a[text()='登录']") 成功！
+2021-08-04 15:13:50,554 - [basepage.py -->line:109] - INFO : 点击 登录页面_右上方登录按钮 元素 ('xpath', "//a[text()='登录']") 成功！
+2021-08-04 15:13:50,579 - [basepage.py -->line:37] - INFO : 等待 登录页面_用户名密码输入框 元素 ('xpath', "//input[@id='loginName']") 可见成功, 耗时: 0:00:00.023934
+2021-08-04 15:13:50,584 - [basepage.py -->line:74] - INFO : 查找 登录页面_用户名密码输入框 元素 ('xpath', "//input[@id='loginName']") 成功！
+2021-08-04 15:13:51,632 - [basepage.py -->line:153] - INFO : 在 登录页面_用户名密码输入框 元素 ('xpath', "//input[@id='loginName']") 上输入文本值：cgn 成功！
+2021-08-04 15:13:51,647 - [basepage.py -->line:37] - INFO : 等待 登录页面_登录按钮 元素 ('xpath', "//input[@type='button']") 可见成功, 耗时: 0:00:00.014958
+2021-08-04 15:13:51,650 - [basepage.py -->line:74] - INFO : 查找 登录页面_登录按钮 元素 ('xpath', "//input[@type='button']") 成功！
+2021-08-04 15:13:52,683 - [basepage.py -->line:109] - INFO : 点击 登录页面_登录按钮 元素 ('xpath', "//input[@type='button']") 成功！
+2021-08-04 15:13:53,702 - [basepage.py -->line:52] - INFO : 等待 首页-用户名 元素 ('xpath', "//a[@href='/ebuy/admin/user?action=index']") 存在成功, 耗时: 0:00:00.007978
+2021-08-04 15:13:53,705 - [basepage.py -->line:74] - INFO : 查找 首页-用户名 元素 ('xpath', "//a[@href='/ebuy/admin/user?action=index']") 成功！
+2021-08-04 15:13:54,724 - [basepage.py -->line:287] - INFO : 获取 首页-用户名 元素 ('xpath', "//a[@href='/ebuy/admin/user?action=index']") 的文本值为:程广宁
+2021-08-04 15:13:54,737 - [basepage.py -->line:37] - INFO : 等待 首页-退出登录按钮 元素 ('xpath', "//a[text()='注销']") 可见成功, 耗时: 0:00:00.012966
+2021-08-04 15:13:54,744 - [basepage.py -->line:74] - INFO : 查找 首页-退出登录按钮 元素 ('xpath', "//a[text()='注销']") 成功！
+2021-08-04 15:13:55,827 - [basepage.py -->line:109] - INFO : 点击 首页-退出登录按钮 元素 ('xpath', "//a[text()='注销']") 成功！
+2021-08-04 15:13:57,857 - [basepage.py -->line:37] - INFO : 等待 登录页面_右上方登录按钮 元素 ('xpath', "//a[text()='登录']") 可见成功, 耗时: 0:00:00.010969
+2021-08-04 15:13:57,860 - [basepage.py -->line:74] - INFO : 查找 登录页面_右上方登录按钮 元素 ('xpath', "//a[text()='登录']") 成功！
+2021-08-04 15:13:58,924 - [basepage.py -->line:109] - INFO : 点击 登录页面_右上方登录按钮 元素 ('xpath', "//a[text()='登录']") 成功！
+2021-08-04 15:13:58,943 - [basepage.py -->line:37] - INFO : 等待 登录页面_用户名密码输入框 元素 ('xpath', "//input[@id='loginName']") 可见成功, 耗时: 0:00:00.017954
+2021-08-04 15:13:58,947 - [basepage.py -->line:74] - INFO : 查找 登录页面_用户名密码输入框 元素 ('xpath', "//input[@id='loginName']") 成功！
+2021-08-04 15:14:00,004 - [basepage.py -->line:153] - INFO : 在 登录页面_用户名密码输入框 元素 ('xpath', "//input[@id='loginName']") 上输入文本值：hyl 成功！
+2021-08-04 15:14:00,020 - [basepage.py -->line:37] - INFO : 等待 登录页面_登录按钮 元素 ('xpath', "//input[@type='button']") 可见成功, 耗时: 0:00:00.015957
+2021-08-04 15:14:00,027 - [basepage.py -->line:74] - INFO : 查找 登录页面_登录按钮 元素 ('xpath', "//input[@type='button']") 成功！
+2021-08-04 15:14:01,063 - [basepage.py -->line:109] - INFO : 点击 登录页面_登录按钮 元素 ('xpath', "//input[@type='button']") 成功！
+2021-08-04 15:14:02,079 - [basepage.py -->line:52] - INFO : 等待 首页-用户名 元素 ('xpath', "//a[@href='/ebuy/admin/user?action=index']") 存在成功, 耗时: 0:00:00.004986
+2021-08-04 15:14:02,082 - [basepage.py -->line:74] - INFO : 查找 首页-用户名 元素 ('xpath', "//a[@href='/ebuy/admin/user?action=index']") 成功！
+2021-08-04 15:14:03,091 - [basepage.py -->line:287] - INFO : 获取 首页-用户名 元素 ('xpath', "//a[@href='/ebuy/admin/user?action=index']") 的文本值为:韩语良
+2021-08-04 15:14:03,102 - [basepage.py -->line:37] - INFO : 等待 首页-退出登录按钮 元素 ('xpath', "//a[text()='注销']") 可见成功, 耗时: 0:00:00.010971
+2021-08-04 15:14:03,107 - [basepage.py -->line:74] - INFO : 查找 首页-退出登录按钮 元素 ('xpath', "//a[text()='注销']") 成功！
+2021-08-04 15:14:04,182 - [basepage.py -->line:109] - INFO : 点击 首页-退出登录按钮 元素 ('xpath', "//a[text()='注销']") 成功！
+2021-08-04 15:14:06,212 - [basepage.py -->line:37] - INFO : 等待 登录页面_右上方登录按钮 元素 ('xpath', "//a[text()='登录']") 可见成功, 耗时: 0:00:00.009972
+2021-08-04 15:14:06,216 - [basepage.py -->line:74] - INFO : 查找 登录页面_右上方登录按钮 元素 ('xpath', "//a[text()='登录']") 成功！
+2021-08-04 15:14:07,294 - [basepage.py -->line:109] - INFO : 点击 登录页面_右上方登录按钮 元素 ('xpath', "//a[text()='登录']") 成功！
+2021-08-04 15:14:07,309 - [basepage.py -->line:37] - INFO : 等待 登录页面_用户名密码输入框 元素 ('xpath', "//input[@id='loginName']") 可见成功, 耗时: 0:00:00.014956
+2021-08-04 15:14:07,314 - [basepage.py -->line:74] - INFO : 查找 登录页面_用户名密码输入框 元素 ('xpath', "//input[@id='loginName']") 成功！
+2021-08-04 15:14:08,361 - [basepage.py -->line:153] - INFO : 在 登录页面_用户名密码输入框 元素 ('xpath', "//input[@id='loginName']") 上输入文本值： 成功！
+2021-08-04 15:14:08,373 - [basepage.py -->line:37] - INFO : 等待 登录页面_登录按钮 元素 ('xpath', "//input[@type='button']") 可见成功, 耗时: 0:00:00.011964
+2021-08-04 15:14:08,378 - [basepage.py -->line:74] - INFO : 查找 登录页面_登录按钮 元素 ('xpath', "//input[@type='button']") 成功！
+2021-08-04 15:14:09,416 - [basepage.py -->line:109] - INFO : 点击 登录页面_登录按钮 元素 ('xpath', "//input[@type='button']") 成功！
+2021-08-04 15:14:40,764 - [basepage.py -->line:46] - ERROR : 等待 登录页-用户名不存在提示信息 元素 ('xpath', "//span[text()='用户不存在！']") 存在失败！
+Traceback (most recent call last):
+  File "D:\Python\pythonproject\web_automation_ebuy\common\basepage.py", line 43, in wait_ele_exists
+    WebDriverWait(self.driver, timeout, frequency).until(ec.presence_of_element_located(loc))
+  File "C:\Users\99162\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-08-04 15:14:41,007 - [basepage.py -->line:319] - INFO : 截图成功，截图存放在：D:\Python\pythonproject\web_automation_ebuy\output/imgs\登录页-用户名不存在提示信息_2021-08-04 15_14_40.png
+2021-08-04 15:14:41,028 - [basepage.py -->line:37] - INFO : 等待 首页-退出登录按钮 元素 ('xpath', "//a[text()='注销']") 可见成功, 耗时: 0:00:00.020942
+2021-08-04 15:14:41,034 - [basepage.py -->line:74] - INFO : 查找 首页-退出登录按钮 元素 ('xpath', "//a[text()='注销']") 成功！
+2021-08-04 15:14:42,129 - [basepage.py -->line:109] - INFO : 点击 首页-退出登录按钮 元素 ('xpath', "//a[text()='注销']") 成功！
+2021-08-04 15:14:44,187 - [basepage.py -->line:37] - INFO : 等待 登录页面_右上方登录按钮 元素 ('xpath', "//a[text()='登录']") 可见成功, 耗时: 0:00:00.015958
+2021-08-04 15:14:44,191 - [basepage.py -->line:74] - INFO : 查找 登录页面_右上方登录按钮 元素 ('xpath', "//a[text()='登录']") 成功！
+2021-08-04 15:14:45,259 - [basepage.py -->line:109] - INFO : 点击 登录页面_右上方登录按钮 元素 ('xpath', "//a[text()='登录']") 成功！
+2021-08-04 15:14:45,280 - [basepage.py -->line:37] - INFO : 等待 登录页面_用户名密码输入框 元素 ('xpath', "//input[@id='loginName']") 可见成功, 耗时: 0:00:00.019946
+2021-08-04 15:14:45,284 - [basepage.py -->line:74] - INFO : 查找 登录页面_用户名密码输入框 元素 ('xpath', "//input[@id='loginName']") 成功！
+2021-08-04 15:14:46,323 - [basepage.py -->line:153] - INFO : 在 登录页面_用户名密码输入框 元素 ('xpath', "//input[@id='loginName']") 上输入文本值：admin 成功！
+2021-08-04 15:14:46,336 - [basepage.py -->line:37] - INFO : 等待 登录页面_登录按钮 元素 ('xpath', "//input[@type='button']") 可见成功, 耗时: 0:00:00.012965
+2021-08-04 15:14:46,340 - [basepage.py -->line:74] - INFO : 查找 登录页面_登录按钮 元素 ('xpath', "//input[@type='button']") 成功！
+2021-08-04 15:14:47,378 - [basepage.py -->line:109] - INFO : 点击 登录页面_登录按钮 元素 ('xpath', "//input[@type='button']") 成功！
+2021-08-04 15:14:48,399 - [basepage.py -->line:52] - INFO : 等待 登录页-密码错误提示信息 元素 ('xpath', "//span[text()='密码错误！']") 存在成功, 耗时: 0:00:00.006999
+2021-08-04 15:14:48,402 - [basepage.py -->line:74] - INFO : 查找 登录页-密码错误提示信息 元素 ('xpath', "//span[text()='密码错误！']") 成功！
+2021-08-04 15:14:49,422 - [basepage.py -->line:287] - INFO : 获取 登录页-密码错误提示信息 元素 ('xpath', "//span[text()='密码错误！']") 的文本值为:密码错误！
+2021-08-04 15:14:49,435 - [basepage.py -->line:37] - INFO : 等待 登录页-提示信息关闭按钮 元素 ('xpath', "//img[@src='/ebuy/statics/images/close.gif']") 可见成功, 耗时: 0:00:00.012964
+2021-08-04 15:14:49,438 - [basepage.py -->line:74] - INFO : 查找 登录页-提示信息关闭按钮 元素 ('xpath', "//img[@src='/ebuy/statics/images/close.gif']") 成功！
+2021-08-04 15:14:50,472 - [basepage.py -->line:109] - INFO : 点击 登录页-提示信息关闭按钮 元素 ('xpath', "//img[@src='/ebuy/statics/images/close.gif']") 成功！
+2021-08-04 15:14:51,487 - [basepage.py -->line:37] - INFO : 等待 登录页面_右上方登录按钮 元素 ('xpath', "//a[text()='登录']") 可见成功, 耗时: 0:00:00.008977
+2021-08-04 15:14:51,490 - [basepage.py -->line:74] - INFO : 查找 登录页面_右上方登录按钮 元素 ('xpath', "//a[text()='登录']") 成功！
+2021-08-04 15:14:52,553 - [basepage.py -->line:109] - INFO : 点击 登录页面_右上方登录按钮 元素 ('xpath', "//a[text()='登录']") 成功！
+2021-08-04 15:14:52,568 - [basepage.py -->line:37] - INFO : 等待 登录页面_用户名密码输入框 元素 ('xpath', "//input[@id='loginName']") 可见成功, 耗时: 0:00:00.014961
+2021-08-04 15:14:52,572 - [basepage.py -->line:74] - INFO : 查找 登录页面_用户名密码输入框 元素 ('xpath', "//input[@id='loginName']") 成功！
+2021-08-04 15:14:53,630 - [basepage.py -->line:153] - INFO : 在 登录页面_用户名密码输入框 元素 ('xpath', "//input[@id='loginName']") 上输入文本值：admin100 成功！
+2021-08-04 15:14:53,641 - [basepage.py -->line:37] - INFO : 等待 登录页面_登录按钮 元素 ('xpath', "//input[@type='button']") 可见成功, 耗时: 0:00:00.010971
+2021-08-04 15:14:53,645 - [basepage.py -->line:74] - INFO : 查找 登录页面_登录按钮 元素 ('xpath', "//input[@type='button']") 成功！
+2021-08-04 15:14:54,678 - [basepage.py -->line:109] - INFO : 点击 登录页面_登录按钮 元素 ('xpath', "//input[@type='button']") 成功！
+2021-08-04 15:14:55,697 - [basepage.py -->line:52] - INFO : 等待 登录页-用户名不存在提示信息 元素 ('xpath', "//span[text()='用户不存在！']") 存在成功, 耗时: 0:00:00.004953
+2021-08-04 15:14:55,701 - [basepage.py -->line:74] - INFO : 查找 登录页-用户名不存在提示信息 元素 ('xpath', "//span[text()='用户不存在！']") 成功！
+2021-08-04 15:14:56,723 - [basepage.py -->line:287] - INFO : 获取 登录页-用户名不存在提示信息 元素 ('xpath', "//span[text()='用户不存在！']") 的文本值为:用户不存在！
+2021-08-04 15:14:56,732 - [basepage.py -->line:37] - INFO : 等待 登录页-提示信息关闭按钮 元素 ('xpath', "//img[@src='/ebuy/statics/images/close.gif']") 可见成功, 耗时: 0:00:00.008975
+2021-08-04 15:14:56,736 - [basepage.py -->line:74] - INFO : 查找 登录页-提示信息关闭按钮 元素 ('xpath', "//img[@src='/ebuy/statics/images/close.gif']") 成功！
+2021-08-04 15:14:57,757 - [basepage.py -->line:109] - INFO : 点击 登录页-提示信息关闭按钮 元素 ('xpath', "//img[@src='/ebuy/statics/images/close.gif']") 成功！
+2021-08-04 15:14:58,781 - [basepage.py -->line:37] - INFO : 等待 登录页面_右上方登录按钮 元素 ('xpath', "//a[text()='登录']") 可见成功, 耗时: 0:00:00.011930
+2021-08-04 15:14:58,784 - [basepage.py -->line:74] - INFO : 查找 登录页面_右上方登录按钮 元素 ('xpath', "//a[text()='登录']") 成功！
+2021-08-04 15:14:59,843 - [basepage.py -->line:109] - INFO : 点击 登录页面_右上方登录按钮 元素 ('xpath', "//a[text()='登录']") 成功！
+2021-08-04 15:14:59,858 - [basepage.py -->line:37] - INFO : 等待 登录页面_用户名密码输入框 元素 ('xpath', "//input[@id='loginName']") 可见成功, 耗时: 0:00:00.014960
+2021-08-04 15:14:59,863 - [basepage.py -->line:74] - INFO : 查找 登录页面_用户名密码输入框 元素 ('xpath', "//input[@id='loginName']") 成功！
+2021-08-04 15:15:00,917 - [basepage.py -->line:153] - INFO : 在 登录页面_用户名密码输入框 元素 ('xpath', "//input[@id='loginName']") 上输入文本值：xyz123 成功！
+2021-08-04 15:15:00,928 - [basepage.py -->line:37] - INFO : 等待 登录页面_登录按钮 元素 ('xpath', "//input[@type='button']") 可见成功, 耗时: 0:00:00.010971
+2021-08-04 15:15:00,932 - [basepage.py -->line:74] - INFO : 查找 登录页面_登录按钮 元素 ('xpath', "//input[@type='button']") 成功！
+2021-08-04 15:15:01,961 - [basepage.py -->line:109] - INFO : 点击 登录页面_登录按钮 元素 ('xpath', "//input[@type='button']") 成功！
+2021-08-04 15:15:02,974 - [basepage.py -->line:52] - INFO : 等待 登录页-用户名不存在提示信息 元素 ('xpath', "//span[text()='用户不存在！']") 存在成功, 耗时: 0:00:00.004783
+2021-08-04 15:15:02,978 - [basepage.py -->line:74] - INFO : 查找 登录页-用户名不存在提示信息 元素 ('xpath', "//span[text()='用户不存在！']") 成功！
+2021-08-04 15:15:03,988 - [basepage.py -->line:287] - INFO : 获取 登录页-用户名不存在提示信息 元素 ('xpath', "//span[text()='用户不存在！']") 的文本值为:用户不存在！
+2021-08-04 15:15:03,997 - [basepage.py -->line:37] - INFO : 等待 登录页-提示信息关闭按钮 元素 ('xpath', "//img[@src='/ebuy/statics/images/close.gif']") 可见成功, 耗时: 0:00:00.008976
+2021-08-04 15:15:04,001 - [basepage.py -->line:74] - INFO : 查找 登录页-提示信息关闭按钮 元素 ('xpath', "//img[@src='/ebuy/statics/images/close.gif']") 成功！
+2021-08-04 15:15:05,023 - [basepage.py -->line:109] - INFO : 点击 登录页-提示信息关闭按钮 元素 ('xpath', "//img[@src='/ebuy/statics/images/close.gif']") 成功！
+2021-08-04 15:15:06,043 - [basepage.py -->line:37] - INFO : 等待 登录页面_右上方登录按钮 元素 ('xpath', "//a[text()='登录']") 可见成功, 耗时: 0:00:00.012027
+2021-08-04 15:15:06,047 - [basepage.py -->line:74] - INFO : 查找 登录页面_右上方登录按钮 元素 ('xpath', "//a[text()='登录']") 成功！
+2021-08-04 15:15:07,114 - [basepage.py -->line:109] - INFO : 点击 登录页面_右上方登录按钮 元素 ('xpath', "//a[text()='登录']") 成功！
+2021-08-04 15:15:07,130 - [basepage.py -->line:37] - INFO : 等待 登录页面_用户名密码输入框 元素 ('xpath', "//input[@id='loginName']") 可见成功, 耗时: 0:00:00.014960
+2021-08-04 15:15:07,134 - [basepage.py -->line:74] - INFO : 查找 登录页面_用户名密码输入框 元素 ('xpath', "//input[@id='loginName']") 成功！
+2021-08-04 15:15:08,177 - [basepage.py -->line:153] - INFO : 在 登录页面_用户名密码输入框 元素 ('xpath', "//input[@id='loginName']") 上输入文本值：admin 成功！
+2021-08-04 15:15:08,187 - [basepage.py -->line:37] - INFO : 等待 登录页面_登录按钮 元素 ('xpath', "//input[@type='button']") 可见成功, 耗时: 0:00:00.009973
+2021-08-04 15:15:08,191 - [basepage.py -->line:74] - INFO : 查找 登录页面_登录按钮 元素 ('xpath', "//input[@type='button']") 成功！
+2021-08-04 15:15:09,220 - [basepage.py -->line:109] - INFO : 点击 登录页面_登录按钮 元素 ('xpath', "//input[@type='button']") 成功！
+2021-08-04 15:15:10,228 - [basepage.py -->line:52] - INFO : 等待 登录页-密码错误提示信息 元素 ('xpath', "//span[text()='密码错误！']") 存在成功, 耗时: 0:00:00.005979
+2021-08-04 15:15:10,231 - [basepage.py -->line:74] - INFO : 查找 登录页-密码错误提示信息 元素 ('xpath', "//span[text()='密码错误！']") 成功！
+2021-08-04 15:15:11,243 - [basepage.py -->line:287] - INFO : 获取 登录页-密码错误提示信息 元素 ('xpath', "//span[text()='密码错误！']") 的文本值为:密码错误！
+2021-08-04 15:15:11,256 - [basepage.py -->line:37] - INFO : 等待 登录页-提示信息关闭按钮 元素 ('xpath', "//img[@src='/ebuy/statics/images/close.gif']") 可见成功, 耗时: 0:00:00.012965
+2021-08-04 15:15:11,261 - [basepage.py -->line:74] - INFO : 查找 登录页-提示信息关闭按钮 元素 ('xpath', "//img[@src='/ebuy/statics/images/close.gif']") 成功！
+2021-08-04 15:15:12,290 - [basepage.py -->line:109] - INFO : 点击 登录页-提示信息关闭按钮 元素 ('xpath', "//img[@src='/ebuy/statics/images/close.gif']") 成功！
+2021-08-04 15:15:13,318 - [basepage.py -->line:37] - INFO : 等待 登录页面_右上方登录按钮 元素 ('xpath', "//a[text()='登录']") 可见成功, 耗时: 0:00:00.011940
+2021-08-04 15:15:13,322 - [basepage.py -->line:74] - INFO : 查找 登录页面_右上方登录按钮 元素 ('xpath', "//a[text()='登录']") 成功！
+2021-08-04 15:15:14,385 - [basepage.py -->line:109] - INFO : 点击 登录页面_右上方登录按钮 元素 ('xpath', "//a[text()='登录']") 成功！
+2021-08-04 15:15:14,401 - [basepage.py -->line:37] - INFO : 等待 登录页面_用户名密码输入框 元素 ('xpath', "//input[@id='loginName']") 可见成功, 耗时: 0:00:00.015957
+2021-08-04 15:15:14,405 - [basepage.py -->line:74] - INFO : 查找 登录页面_用户名密码输入框 元素 ('xpath', "//input[@id='loginName']") 成功！
+2021-08-04 15:15:15,450 - [basepage.py -->line:153] - INFO : 在 登录页面_用户名密码输入框 元素 ('xpath', "//input[@id='loginName']") 上输入文本值：cgn 成功！
+2021-08-04 15:15:15,461 - [basepage.py -->line:37] - INFO : 等待 登录页面_登录按钮 元素 ('xpath', "//input[@type='button']") 可见成功, 耗时: 0:00:00.010971
+2021-08-04 15:15:15,465 - [basepage.py -->line:74] - INFO : 查找 登录页面_登录按钮 元素 ('xpath', "//input[@type='button']") 成功！
+2021-08-04 15:15:16,495 - [basepage.py -->line:109] - INFO : 点击 登录页面_登录按钮 元素 ('xpath', "//input[@type='button']") 成功！
+2021-08-04 15:15:17,500 - [basepage.py -->line:52] - INFO : 等待 登录页-密码错误提示信息 元素 ('xpath', "//span[text()='密码错误！']") 存在成功, 耗时: 0:00:00.004160
+2021-08-04 15:15:17,503 - [basepage.py -->line:74] - INFO : 查找 登录页-密码错误提示信息 元素 ('xpath', "//span[text()='密码错误！']") 成功！
+2021-08-04 15:15:18,526 - [basepage.py -->line:287] - INFO : 获取 登录页-密码错误提示信息 元素 ('xpath', "//span[text()='密码错误！']") 的文本值为:密码错误！
+2021-08-04 15:15:18,536 - [basepage.py -->line:37] - INFO : 等待 登录页-提示信息关闭按钮 元素 ('xpath', "//img[@src='/ebuy/statics/images/close.gif']") 可见成功, 耗时: 0:00:00.008975
+2021-08-04 15:15:18,539 - [basepage.py -->line:74] - INFO : 查找 登录页-提示信息关闭按钮 元素 ('xpath', "//img[@src='/ebuy/statics/images/close.gif']") 成功！
+2021-08-04 15:15:19,559 - [basepage.py -->line:109] - INFO : 点击 登录页-提示信息关闭按钮 元素 ('xpath', "//img[@src='/ebuy/statics/images/close.gif']") 成功！

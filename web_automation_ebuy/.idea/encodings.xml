@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/README.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/common" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/common/send_email.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/main.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/output" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/page_locators" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/page_objects" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/test_cases" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/util" charset="GBK" />
+  </component>
+</project>
